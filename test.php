@@ -1,3 +1,5 @@
-<?php>
+<?php
 
-hello da ;
+echo("hello da");
+
+?>
